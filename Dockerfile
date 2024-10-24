@@ -1,6 +1,6 @@
 # ベースイメージを指定 (ARM64 用)
 FROM arm64v8/ubuntu:22.04
-
+# 
 # 環境変数の設定
 ENV LANG=en_US.UTF-8
 ENV LC_ALL=en_US.UTF-8
